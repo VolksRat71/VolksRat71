@@ -1,9 +1,9 @@
 <div align="center"><a href="https://nathanryan.tech/"><img width="30%" src="./logo_img/NRfull.png"></a></div>
-<h3 align="center">Hello 👋🏽 I am Nate. I make web applications</h3>
+<h3 align="center">Hello 👋🏽 I am Nate. I make web applications.</h3>
 <br>
 <br>
 
-- 🔭 I’m currently working on...  <span><a href="https://github.com/VolksRat71/advancedReact"><img height="15px" src="./logo_img/NotSupreme.png" /></a></span> a full-stack clothing store!
+- 🔭 I’m currently working on  <span><a href="https://github.com/VolksRat71/advancedReact"><img height="15px" src="./logo_img/NotSupreme.png" /></a></span> a full-stack clothing store!
 
 - 🌱 I’m currently learning **React, GraphQL, Redux, Node & much more!**
 
@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **nathanieljryan1994@gmail.com**!
 
-- 📄 Checkout my achievements [from my portfolio](https://nathanryan.tech/)!
+- 📄 Checkout my achievements from [my portfolio](https://nathanryan.tech/)!
 
 
 <h3 align="left">Connect with me:</h3>
