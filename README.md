@@ -1,5 +1,5 @@
 <div align="center"><a src="https://nathanryan.tech/"><img width="30%" src="./logo_img/NRfull.png"></a></div>
-<h3 align="center">I make really good web applications.</h3>
+<h3 align="center">Hello 👋🏽 I am Nate. I make web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volksrat71&label=Profile%20views&color=0e75b6&style=flat"
         alt="volksrat71" /> </p>
@@ -26,12 +26,6 @@
             width="40" /></a>
 </p>
 
-<h3 align="left">Download my Resume:</h3>
-<p align="left">
-    <a href="https://nathanryan.tech/document/NathanielRyanResume.pdf" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docusign.svg" alt="nathanieljryan" height="30"
-            width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -85,4 +79,10 @@
     <a href="https://webpack.js.org" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack"
             width="40" height="40" /> </a>
+<h3 align="left">Download my Resume:</h3>
+<p align="left">
+    <a href="https://nathanryan.tech/document/NathanielRyanResume.pdf" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docusign.svg" alt="nathanieljryan" height="30"
+            width="40" /></a>
+</p>
 </p>
