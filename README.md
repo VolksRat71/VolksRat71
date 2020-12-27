@@ -1,8 +1,7 @@
 <div align="center"><a href="https://nathanryan.tech/"><img width="30%" src="./logo_img/NRfull.png"></a></div>
 <h3 align="center">Hello 👋🏽 I am Nate. I make web applications</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=volksrat71&label=Profile%20views&color=0e75b6&style=flat"
-        alt="volksrat71" /> </p>
+<br>
+<br>
 
 - 🔭 I’m currently working on...  <span><a href="https://github.com/VolksRat71/advancedReact"><img height="15px" src="./logo_img/NotSupreme.png" /></a></span> a full-stack clothing store!
 
@@ -10,11 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [the Repositories tab](https://github.com/VolksRat71?tab=repositories)!
 
-- 📫 How to reach me **nathanieljryan1994@gmail.com**
+- 📫 Reach me at **nathanieljryan1994@gmail.com**!
 
-- 📄 Know about my experiences [from my portfolio](https://nathanryan.tech/)!
+- 📄 Checkout my achievements [from my portfolio](https://nathanryan.tech/)!
 
-- ⚡ Fun fact **I love, love, love anything engineering. Cars, trucks, rockets, computers, you name it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
