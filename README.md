@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋 I'm Nate</h1>
+<div align="center"><a src="https://nathanryan.tech/"><img width="30%" src="./logo_img/NRfull.png"></a></div>
 <h3 align="center">I make really good web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volksrat71&label=Profile%20views&color=0e75b6&style=flat"
         alt="volksrat71" /> </p>
 
-- 🔭 I’m currently working on...  <span><a href="https://github.com/VolksRat71/advancedReact"><img style="max-width: 5%;" src="https://raw.githubusercontent.com/VolksRat71/advancedReact/master/test_images/NotSupreme.png" /></a></span> a full-stack clothing store!
+- 🔭 I’m currently working on...  <span><a href="https://github.com/VolksRat71/advancedReact"><img height="15px" src="./logo_img/NotSupreme.png" /></a></span> a full-stack clothing store!
 
 - 🌱 I’m currently learning **React, GraphQL, Redux, Node & much more!**
 
