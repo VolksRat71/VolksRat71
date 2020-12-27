@@ -1,4 +1,4 @@
-<div align="center"><a src="https://nathanryan.tech/"><img width="30%" src="./logo_img/NRfull.png"></a></div>
+<div align="center"><a href="https://nathanryan.tech/"><img width="30%" src="./logo_img/NRfull.png"></a></div>
 <h3 align="center">Hello 👋🏽 I am Nate. I make web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volksrat71&label=Profile%20views&color=0e75b6&style=flat"
