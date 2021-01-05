@@ -1,5 +1,5 @@
 <div align="center"><a href="https://nathanryan.tech/"><img width="30%" src="./logo_img/NRfull.png"></a></div>
-<h3 align="center">Hello 👋🏽 I am Nate. I make web applications.</h3>
+<h3 align="center">👋🏽 I am Nate. I make web applications.</h3>
 <br>
 <br>
 
