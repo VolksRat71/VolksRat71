@@ -46,7 +46,7 @@ ___
 <img height="60px" src="./logo_img/tools_logos/Materialize.png">
 <img height="60px" src="./logo_img/tools_logos/Styled-Components.png">
 <img height="60px" src="./logo_img/tools_logos/SCSS.png">
-<img height="60px" src="./logo_img/tools_logos/Handlebars.png">
+<img height="60px" src="./logo_img/tools_logos/HandleBars.png">
 <img height="60px" src="./logo_img/tools_logos/jQuery.png">
 <img height="60px" src="./logo_img/tools_logos/Node.png">
 <img height="60px" src="./logo_img/tools_logos/Expressjs.png">
