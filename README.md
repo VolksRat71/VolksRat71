@@ -17,7 +17,7 @@ ___
 <li>🔭 I am currently working with <strong>JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, & Serverless Functions.</strong>
 </li>
 <br>
-<li>👨🏽‍💻 I have just finished a project featuring <strong>JavaScript, Gatsby, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check it out below)
+<li>👨🏽‍💻 I have just finished a project featuring <strong>JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check it out below)
 </li>
 </ul>
 <p align="center">
