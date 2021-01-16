@@ -40,7 +40,7 @@ ___
 <p align="center">
 <img height="60px" src="./logo_img/tools_logos/HTML.png">
 <img height="60px" src="./logo_img/tools_logos/CSS.png">
-<img height="60px" src="./logo_img/tools_logos/Javascript.png">
+<img height="60px" src="./logo_img/tools_logos/JavaScript.png">
 <img height="60px" src="./logo_img/tools_logos/React.png">
 <img height="60px" src="./logo_img/tools_logos/Redux.png">
 <img height="60px" src="./logo_img/tools_logos/Webpack.png">
