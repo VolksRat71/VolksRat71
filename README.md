@@ -42,6 +42,7 @@ ___
 <img height="60px" src="./logo_img/tools_logos/CSS.png">
 <img height="60px" src="./logo_img/tools_logos/React.png">
 <img height="60px" src="./logo_img/tools_logos/Redux.png">
+<img height="60px" src="./logo_img/tools_logos/Webpack.png">
 <img height="60px" src="./logo_img/tools_logos/Bootstrap.png">
 <img height="60px" src="./logo_img/tools_logos/Materialize.png">
 <img height="60px" src="./logo_img/tools_logos/Styled-Components.png">
