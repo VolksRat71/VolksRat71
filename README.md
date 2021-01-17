@@ -62,6 +62,7 @@ ___
 <img height="60px" src="./logo_img/tools_logos/MongoDB.png">
 <img height="60px" src="./logo_img/tools_logos/MySQL.png">
 <img height="60px" src="./logo_img/tools_logos/Firebase.png">
+<img height="60px" src="./logo_img/tools_logos/Mongoose.png">
 <img height="60px" src="./logo_img/tools_logos/Prisma.png">
 <img height="60px" src="./logo_img/tools_logos/Sequilize.png">
 <img height="60px" src="./logo_img/tools_logos/Jest.png">
