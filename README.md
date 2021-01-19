@@ -60,8 +60,8 @@ ___
         <img height="60px" src="./logo_img/tools_logos/JWT.png">
         <img height="60px" src="./logo_img/tools_logos/Socket.io.png">
         <img height="60px" src="./logo_img/tools_logos/Nodemailer.png">
-        <img height="60px" src="./logo_img/tools_logos/Sanity.png">
         <img height="60px" src="./logo_img/tools_logos/Stripe.png">
+        <img height="60px" src="./logo_img/tools_logos/Sanity.png">
         <img height="60px" src="./logo_img/tools_logos/MongoDB.png">
         <img height="60px" src="./logo_img/tools_logos/MySQL.png">
         <img height="60px" src="./logo_img/tools_logos/Firebase.png">
