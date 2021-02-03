@@ -79,7 +79,7 @@ ___
     </a>
 </p>
 
-<p align="center">But, keep in mind, I am always up to a new challenge! 😃</p>
+<p align="center">But please keep in mind, I am always up to a new challenge! 😃</p>
 
 <br>
 
