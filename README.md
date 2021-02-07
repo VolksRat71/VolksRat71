@@ -17,12 +17,12 @@ font-size: 20px
 <li>🔭 I am currently <strong>participating in Developer Week 2021</strong>, a hackathon based out of the San Francisco bay!
 </li>
 <br>
-<li>👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check it out below)
+<li>👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>ES6 JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check it out below)
 </li>
 </ul>
 <p align="center">
     <a href="https://github.com/VolksRat71/NOT_SUPREME"><img width="58%" src="./logo_img/RunThru.gif"/></a>
-    <a href="https://eager-aryabhata-2f82dc.netlify.app/"><img width="38.7%" src="./logo_img/Laptop-&-Phone-Mockup.gif"/></a>
+    <a href="https://github.com/VolksRat71/NatesTacoShack"><img width="38.7%" src="./logo_img/Laptop-&-Phone-Mockup.gif"/></a>
 </p>
 <p align="center">
     <a href="https://github.com/VolksRat71/NOT_SUPREME"><img width="17%" src="./logo_img/AboutNS.png"/></a>
