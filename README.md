@@ -21,17 +21,17 @@ font-size: 20px
 </li>
 </ul>
 <p align="center">
-    <a href="https://github.com/VolksRat71/NOT_SUPREME"><img height="60px" src="./logo_img/AboutNS.png"/></a>
-    <a href="https://github.com/VolksRat71/NatesTacoShack"><img height="100px" src="./logo_img/AboutNTS.png"/></a>
+    <a href="https://github.com/VolksRat71/NOT_SUPREME"><img height="30px" src="./logo_img/AboutNS.png"/></a>
+    <a href="https://github.com/VolksRat71/NatesTacoShack"><img height="60px" src="./logo_img/AboutNTS.png"/></a>
 </p>
 <p align="center">
-    <a href="https://github.com/VolksRat71/NOT_SUPREME"><img width="58%" src="./logo_img/RunThru.gif"/></a>
-    <a href="https://github.com/VolksRat71/NatesTacoShack"><img width="38.7%" src="./logo_img/Laptop-&-Phone-Mockup.gif"/></a>
+    <a href="https://github.com/VolksRat71/NOT_SUPREME"><img width="45%" src="./logo_img/RunThruCrop.gif"/></a>
+    <a href="https://github.com/VolksRat71/NatesTacoShack"><img width="45%" src="./logo_img/Laptop-&-Phone-MockupCrop.gif"/></a>
 </p>
 
 <p align="center">
-    <a href="https://notsupreme-next-prod.herokuapp.com/"><img  height="60px" height="50px" src="./logo_img/Deployed_AppNS.png"/></a>
-    <a href="https://eager-aryabhata-2f82dc.netlify.app/"><img  height="100px" src="./logo_img/Deployed_AppNTS.png"/></a>
+    <a href="https://notsupreme-next-prod.herokuapp.com/"><img  height="30px"src="./logo_img/Deployed_AppNS.png"/></a>
+    <a href="https://eager-aryabhata-2f82dc.netlify.app/"><img  height="60px" src="./logo_img/Deployed_AppNTS.png"/></a>
 </p>
 
 <br>
