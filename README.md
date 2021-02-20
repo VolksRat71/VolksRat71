@@ -14,7 +14,7 @@ font-size: 20px
 
 <br>
 <ul>
-<li>🏆 My team and I placed <strong>2nd Place</strong> in the <strong>Anvil Challenge</strong> for <strong>Developer Week 2021</strong> with and "Auto Arbi-Trader", an online application that provides Paperless private vehicle sales via generated PDFs with biometric authentication! (<a href="https://github.com/VolksRat71/AutoArbi-Trader">Check it out</a>)
+<li>🏆 My team and I placed <strong>2nd Place</strong> in the <strong>Anvil Challenge</strong> & were awarded with the <strong>TypingDNA Platinum Badge</strong> for <strong>Developer Week 2021</strong> with and "Auto Arbi-Trader", an online application that provides Paperless private vehicle sales via generated PDFs with biometric authentication! (<a href="https://github.com/VolksRat71/AutoArbi-Trader">Check it out</a>)
 </li>
 <br>
 <li>👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>ES6 JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check them out below)
