@@ -13,13 +13,22 @@ font-size: 20px
 ---
 
 <br>
-<ul>
-<li>🏆 My team and I placed <strong>2nd Place</strong> in the <strong>Anvil Challenge</strong> for <strong>Developer Week 2021</strong> with and "Auto Arbi-Trader", an online application that provides paperless private vehicle sales and ownership via generated PDFs with biometric authentication! (<a href="https://github.com/VolksRat71/AutoArbi-Trader">Check it out</a>)
-</li>
+
+<p align="center">
+👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>ES6 JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check them out below)
+</p>
+
 <br>
-<li>👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>ES6 JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check them out below)
-</li>
-</ul>
+
+<h3 align="center">
+    🏆 2nd Place in <a href="https://developerweek-2021-hackathon.devpost.com/">Anvil Challenge</a> for DeveloperWeek 2021 🏆
+</h3>
+<p align="center">
+    (click image to see repo)
+</p>
+<p align="center">
+    <a href="https://github.com/VolksRat71/AutoArbi-Trader"><img width="45%" src="./logo_img/MobileDemo.gif"/></a>
+</p>
 
 <p align="center">
     <a href="https://github.com/VolksRat71/NOT_SUPREME"><img width="45%" src="./logo_img/Laptop-Mockup.gif"/></a>
