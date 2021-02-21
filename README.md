@@ -1,10 +1,3 @@
-<div style="
-border: 1px solid black;
-padding: 20px;
-font-family: sans-serif;
-line-height: 2;
-font-size: 20px
-">
 <p align="center">
         <a href="https://nathanryan.tech/"><img height="70px" src="./logo_img/Name.png"/></a>
 </p>
@@ -14,20 +7,20 @@ font-size: 20px
 
 <br>
 
-<p align="center">
-👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>ES6 JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check them out below)
-</p>
-
-<br>
-
-<h3 align="center">
+<h2 align="center">
     🏆 2nd Place in <a href="https://developerweek-2021-hackathon.devpost.com/">Anvil Challenge</a> for DeveloperWeek 2021 🏆
-</h3>
+</h2>
 <p align="center">
     (click image to see repo)
 </p>
 <p align="center">
     <a href="https://github.com/VolksRat71/AutoArbi-Trader"><img width="45%" src="./logo_img/MobileDemo.gif"/></a>
+</p>
+
+<br>
+
+<p>
+👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>ES6 JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check them out below)
 </p>
 
 <p align="center">
@@ -101,4 +94,3 @@ font-size: 20px
 <p align="center">
 | <a href="tel:5035047581">(503)504-7581</a> ||  <a href="mailto:nathanieljryan1994@gmail.com">nathanieljryan1994@gmail.com</a> || <a href="https://www.linkedin.com/in/nathanieljryan/">LinkedIn</a> || <a href="https://nathanryan.tech/">Portfolio</a> || <a href="https://nathanryan.tech/document/NathanielRyanResume.pdf">Resume</a> |
 </p>
-</div>
