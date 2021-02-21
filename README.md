@@ -10,11 +10,13 @@
 <h2 align="center">
     🏆 2nd Place in <a href="https://developerweek-2021-hackathon.devpost.com/">Anvil Challenge</a> for DeveloperWeek 2021 🏆
 </h2>
-<p align="center">
-    (click image to see repo)
-</p>
+
 <p align="center">
     <a href="https://github.com/VolksRat71/AutoArbi-Trader"><img width="45%" src="./logo_img/MobileDemo.gif"/></a>
+</p>
+
+<p align="center">
+    (click image to see repo)
 </p>
 
 <br>
