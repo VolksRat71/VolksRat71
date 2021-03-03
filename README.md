@@ -9,7 +9,7 @@
 <br>
 
 <h2 align="center">
-    🏆 2nd Place in <a href="https://developerweek-2021-hackathon.devpost.com/">Anvil Challenge</a> for DeveloperWeek 2021 🏆
+    🏆 2nd Place in <a href="https://www.useanvil.com/blog/2021-03-02-developer-week-hackathon-winners">Anvil Challenge</a> for DeveloperWeek 2021 🏆
 </h2>
 
 <p align="center">
