@@ -5,7 +5,6 @@
 
 ---
 
-
 <br>
 
 <h2 align="center">
@@ -24,7 +23,7 @@
     Anvil Challenge - "How can the world be improved if paperwork bureaucracy were eliminated?"
 </p>
 
-___
+---
 
 <br>
 
@@ -59,6 +58,7 @@ ___
         <img height="50rem" src="./logo_img/tools_logos/React.png">
         <img height="50rem" src="./logo_img/tools_logos/Redux.png">
         <img height="50rem" src="./logo_img/tools_logos/Webpack.png">
+        <img height="50rem" src="./logo_img/tools_logos/MaterialUI.png">
         <img height="50rem" src="./logo_img/tools_logos/Bootstrap.png">
         <img height="50rem" src="./logo_img/tools_logos/Materialize.png">
         <img height="50rem" src="./logo_img/tools_logos/Styled-Components.png">
@@ -90,6 +90,9 @@ ___
         <img height="50rem" src="./logo_img/tools_logos/GitHubPages.png">
         <img height="50rem" src="./logo_img/tools_logos/Heroku.png">
         <img height="50rem" src="./logo_img/tools_logos/ChromeDevTools.png">
+        <img height="50rem" src="./logo_img/tools_logos/AnvilAPI.png">
+        <img height="50rem" src="./logo_img/tools_logos/CloudinaryAPI.png">
+        <img height="50rem" src="./logo_img/tools_logos/TypingDNAAPI.png">
     </a>
 </p>
 
