@@ -1,7 +1,6 @@
 <p align="center">
         <a href="https://nathanryan.tech/"><img height="70px" src="./logo_img/Name.png"/></a>
 </p>
-<h3 align="center">I am a Full-Stack Engineer Looking for a good job.</h3>
 
 ---
 
