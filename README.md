@@ -26,10 +26,6 @@
 
 <br>
 
-<p>
-👨🏽‍💻 I have just finished one project featuring <strong>ES6 JavaScript, Gatsby, React.js, GraphQL, Headless CMS, Progressive Images, Scoped CSS, Serverless Functions.</strong> I also I have another featuring <strong>ES6 JavaScript, React.js, GraphQL, Next.js, Apollo Client, & Jest/Enzyme test frameworks.</strong> (Check them out below)
-</p>
-
 <p align="center">
     <a href="https://github.com/VolksRat71/NOT_SUPREME"><img width="45%" src="./logo_img/Laptop-Mockup.gif"/></a>
     <a href="https://github.com/VolksRat71/NatesTacoShack"><img width="41.25%" src="./logo_img/Laptop-&-Phone-Mockup.gif"/></a>
